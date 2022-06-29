@@ -1,4 +1,4 @@
-# RizkiMufrizal.github.io
+#Novriadi Antonius S
 
 Berikut adalah sintak bahasa pemrograman yang akan digunakan dalam markdown
 
